@@ -3,3 +3,4 @@
 neue Zeile 
 Aenderung in benchmarks
 Weitere Aenderung
+Staging Area ueberspringen
